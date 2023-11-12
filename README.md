@@ -13,6 +13,7 @@ This repository is used to keep track of experiments with Language Models (LMs).
     - Extract additional articles (for now tested with a single article and ArXiv API) and use abstract summaries to learn about articles similar/different from the ones in the vector store.  The idea is to fill in knowledge gaps in the field.
 
 TODOS:
+
     - Extrapolate to multiple articles, scrape relevant websites for unknown breakthroughs 
     - Perhaps use llamaindex Knowledge Agents?  Graph of thou
     - Plan to experiment with Mistral or Zephyr models to increase speed. Self-Rag 7B may be another solution.
