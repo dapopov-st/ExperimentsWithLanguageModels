@@ -15,7 +15,7 @@ This repository is used to keep track of experiments with Language Models (LMs).
 TODOS:
 
     - Extrapolate to multiple articles, scrape relevant websites for unknown breakthroughs 
-    - Perhaps use llamaindex Knowledge Agents?  Graph of thou
+    - Perhaps use llamaindex Knowledge Agents? 
     - Plan to experiment with Mistral or Zephyr models to increase speed. Self-Rag 7B may be another solution.
     - Next, I aim to see if we can use Pinecone/Elasticsearch to use metadata for retrieval.
 
